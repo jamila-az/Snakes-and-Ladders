@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<db_xml>
+    <atelierb version="3_7_ubuntu-cvs" />
+    <project decomp_dir="C:\Users\jamil\OneDrive - University of Westminster\Final Year\GameBoard\bdp\expand_src" old_decomp_dir="C:\Users\jamil\OneDrive - University of Westminster\Final Year\GameBoard\bdp\src">
+        <!-- Definition directory list -->
+        <!-- Proof mechanisms -->
+        <!-- Component file list -->
+        <component_file path="C:/Users/jamil/OneDrive - University of Westminster/Final Year/GameBoard" name="GameBoard" suffix="mch" user="jamil">
+            <component name="GameBoard" type="specification" />
+        </component_file>
+    </project>
+</db_xml>
